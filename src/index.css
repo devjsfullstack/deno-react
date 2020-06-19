@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#header {
+  top: 0;
+  position: sticky;
+  position: -webkit-sticky;
+  z-index: 10;
+}

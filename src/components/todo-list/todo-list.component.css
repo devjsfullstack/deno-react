@@ -1,0 +1,18 @@
+.todo-text {
+    color: #bbb;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.icon-color {
+    color: black;
+}
+
+.collection a.collection-item {
+    color: darkgreen !important;
+}
+
+.container {
+    margin-top: -70px !important;
+}
